@@ -1,1 +1,1 @@
-# .github
+<a href="#"><img alt="RataraSMP - official repository" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ratara%20SMP&section=header&textBg=false&reversal=false&desc=official%20repository&descAlign=50&descAlignY=65" align="center" style="width: 100%"></a>
